@@ -1,0 +1,40 @@
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\bin\Debug\DAL.exe.config
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\bin\Debug\DAL.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\bin\Debug\DAL.pdb
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\obj\Debug\DAL.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBENXE\DAL\bin\Debug\DAL.exe.config
+C:\Users\Administrator\Downloads\QLBENXE\DAL\bin\Debug\DAL.exe
+C:\Users\Administrator\Downloads\QLBENXE\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\QLBENXE\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\QLBENXE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLBENXE\DAL\obj\Debug\DAL.exe
+C:\Users\Administrator\Downloads\QLBENXE\DAL\obj\Debug\DAL.pdb
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\bin\Debug\DAL.exe.config
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\bin\Debug\DAL.exe
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\bin\Debug\DAL.pdb
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\obj\Debug\DAL.exe
+C:\Users\truon\Downloads\QLBENXE (1)\QLBENXE\DAL\obj\Debug\DAL.pdb
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\obj\Debug\DAL.exe
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\obj\Debug\DAL.pdb
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\bin\Debug\DAL.exe.config
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\bin\Debug\DAL.exe
+C:\Users\truon\OneDrive\Máy tính\BTL_.NET\QLBENXE\DAL\bin\Debug\DAL.pdb

@@ -1,0 +1,3 @@
+tk : Admin
+mk : 123
+chạy sql thì chạy bảng tài khoản trước tiên
